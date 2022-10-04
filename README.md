@@ -1,3 +1,2 @@
-# ErisVaTano.github.io
+# Emily Rickman
 Personal website 
-Emily Rickman
