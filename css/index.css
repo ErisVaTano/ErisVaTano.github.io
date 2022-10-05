@@ -1,1 +1,5 @@
-
+@font-face {
+  font-family: "Gemunu Libre"; 
+  src: url(https://fonts.google.com/specimen/Gemunu+Libre#styles) format("truetype");
+}
+h1 { font-family: "Gemunu Libre", libre }
