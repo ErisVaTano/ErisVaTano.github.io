@@ -1,5 +1,10 @@
-@font-face {
-  font-family: "Gemunu Libre"; 
-  src: url(https://fonts.google.com/specimen/Gemunu+Libre#styles) format("truetype");
+p {
+  color: black;
+  font-family: "GEMUNU", libre;
+  padding-right: 15 px;
+  padding-left: 15 px;
+  margin-right: auto;
+  margin-left: auto; 
+  text-align: center;
+  Background-color: Purple;
 }
-h1 { font-family: "Gemunu Libre", libre }
